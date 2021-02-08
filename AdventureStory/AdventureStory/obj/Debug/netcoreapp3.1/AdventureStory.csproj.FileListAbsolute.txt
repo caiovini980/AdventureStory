@@ -1,0 +1,13 @@
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.exe
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.deps.json
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.runtimeconfig.json
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.runtimeconfig.dev.json
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.dll
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\bin\Debug\netcoreapp3.1\AdventureStory.pdb
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.csprojAssemblyReference.cache
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.AssemblyInfoInputs.cache
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.AssemblyInfo.cs
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.csproj.CoreCompileInputs.cache
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.dll
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.pdb
+D:\GitHub\AdventureStory\AdventureStory\AdventureStory\obj\Debug\netcoreapp3.1\AdventureStory.genruntimeconfig.cache
